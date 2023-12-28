@@ -1256,8 +1256,8 @@
     (property "Description" "" (at 154.94 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be84))
-    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab147))
+    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be85))
+    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab148))
     (instances
       (project "pad-controller"
         (path "/64949cb2-91a5-46f3-bf79-1f835924a2e1/8e270b19-1a54-479b-8529-2717edbe00b6"
@@ -1342,8 +1342,8 @@
     (property "Description" "" (at 195.58 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be84))
-    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab147))
+    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be86))
+    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab149))
     (instances
       (project "pad-controller"
         (path "/64949cb2-91a5-46f3-bf79-1f835924a2e1/8e270b19-1a54-479b-8529-2717edbe00b6"
@@ -1425,8 +1425,8 @@
     (property "Description" "" (at 185.42 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be84))
-    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab147))
+    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be87))
+    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab14a))
     (instances
       (project "pad-controller"
         (path "/64949cb2-91a5-46f3-bf79-1f835924a2e1/8e270b19-1a54-479b-8529-2717edbe00b6"
@@ -1623,8 +1623,8 @@
     (property "Description" "Capacitor, Ceramic, 50 V, X7R, 10%" (at 59.69 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 6b443f05-d0b4-41fc-b587-1864e0ba98a1))
-    (pin "1" (uuid d92c6308-b284-40fa-95d4-e7a9dfd1e8dc))
+    (pin "2" (uuid 6b443f05-d0b4-41fc-b587-1864e0ba98a2))
+    (pin "1" (uuid d92c6308-b284-40fa-95d4-e7a9dfd1e8dd))
     (instances
       (project "pad-controller"
         (path "/64949cb2-91a5-46f3-bf79-1f835924a2e1/8e270b19-1a54-479b-8529-2717edbe00b6"
@@ -1900,7 +1900,7 @@
     (property "Datasheet" "" (at 100.33 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 64706396-929f-466e-acc4-b3afa4e42ef6))
+    (pin "1" (uuid 64706396-929f-466e-acc4-b3afa4e42ef7))
     (instances
       (project "pad-controller"
         (path "/64949cb2-91a5-46f3-bf79-1f835924a2e1/8e270b19-1a54-479b-8529-2717edbe00b6"
@@ -2225,8 +2225,8 @@
     (property "Description" "" (at 175.26 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be84))
-    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab147))
+    (pin "1" (uuid 66fad6a1-573b-4f44-8fb6-a3891942be88))
+    (pin "2" (uuid 4410e40f-8360-4b3a-bfde-732a0c2ab14b))
     (instances
       (project "pad-controller"
         (path "/64949cb2-91a5-46f3-bf79-1f835924a2e1/8e270b19-1a54-479b-8529-2717edbe00b6"
