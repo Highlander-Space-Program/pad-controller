@@ -2119,7 +2119,7 @@
     (property "Value" "TPS56121" (at 55.88 99.06 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm" (at 59.69 113.03 0)
+    (property "Footprint" "Marks_Footprints:DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm" (at 59.69 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 59.69 113.03 0)
