@@ -3287,7 +3287,7 @@
 
   (footprint "Logo Footprint Library:hsp-logo" (layer "B.Cu")
     (tstamp 7505db2f-8683-4c8d-8978-c80c80a5122c)
-    (at 160.5 70.7 180)
+    (at 163 70 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
@@ -5612,7 +5612,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
   (gr_text_box "HSP Pad Controller v1.0"
-    (start 123.65 61.5) (end 156.35 65) (layer "B.SilkS") (tstamp 04638bbf-548f-4f2e-86e5-554afdf5557e)
+    (start 124.85 61.1) (end 157.55 64.6) (layer "B.SilkS") (tstamp 04638bbf-548f-4f2e-86e5-554afdf5557e)
       (effects (font (size 1.5 1.5) (thickness 0.25) bold) (justify left top mirror))
   )
 
